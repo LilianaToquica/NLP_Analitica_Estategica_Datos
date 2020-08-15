@@ -1,4 +1,4 @@
-# Fundamentos Procesamiento de Lenguaje Natural (NLP) -- Electiva
+# Fundamentos Procesamiento de Lenguaje Natural (NLP)
 ## Analítica Estratégica de Datos
 
 ### Fundación Unviersitaria Konrad Lorenz
