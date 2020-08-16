@@ -7,3 +7,5 @@
 Docente: Viviana Márquez [vivianam.penam@konradlorenz.edu.co]
 
 Para más información sobre esta clase, por favor dirigirse al aula virtual.
+
+http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/
