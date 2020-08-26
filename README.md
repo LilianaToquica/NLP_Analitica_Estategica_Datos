@@ -10,4 +10,5 @@ Para más información sobre esta clase, por favor dirigirse al aula virtual.
 
 # Clases
 
-Clase 1 | Agosto 15, 2020 | Introducción a NLP y logística de la clase | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clase1/Clase1.html)
+Clase 1 | Agosto 15, 2020 | Introducción a NLP y logística de la clase | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase1/Clase1.html)
+Clase 2 | Agosto 22, 2020 | Adqusición de Datos | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase2/Clase2.html)
