@@ -16,4 +16,3 @@ Clase 3 | Agosto 29, 2020 | Pre-Procesamiento de Textos | [Link](http://vivianam
 Clase 4 | Septiembre 5, 2020 | Representación de vectorial de Textos (Parte 1) | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase4/Clase4.html)
 Clase 5 | Septiembre 12, 2020 | TF-IDF & Similitud | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase5/Clase5.html)
 Clase 6 | Septiembre 19, 2020 | Word2Vec | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase6/Clase6.html)
-)
