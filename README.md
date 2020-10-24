@@ -18,4 +18,5 @@ Clase 5 | Septiembre 12, 2020 | TF-IDF & Similitud | [Link](http://vivianamarque
 Clase 6 | Septiembre 19, 2020 | Word2Vec | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase6/Clase6.html)
 Clase 7 | Septiembre 26, 2020 | ML & Clasificación | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase7/Clase7.html)
 Clase 8 | Septiembre 26, 2020 | Clasificación | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase8/Clase8.html)
-Clase 9 | Septiembre 17, 2020 | Agrupación | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase9/Clase9.html)
+Clase 9 | Octubre 17, 2020 | Agrupación | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase9/Clase9.html)
+Clase 10 | Octubre 24, 2020 | Modelado de Temas | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase9/Clase9.html)
