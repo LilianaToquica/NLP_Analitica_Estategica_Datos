@@ -20,3 +20,4 @@ Clase 7 | Septiembre 26, 2020 | ML & Clasificación | [Link](http://vivianamarqu
 Clase 8 | Septiembre 26, 2020 | Clasificación | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase8/Clase8.html)
 Clase 9 | Octubre 17, 2020 | Agrupación | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase9/Clase9.html)
 Clase 10 | Octubre 24, 2020 | Modelado de Temas | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase10/Clase10.html)
+Clase 11 | 🎃 Octubre 31, 2020 | Visualización NLP | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase11/Clase11.html)
