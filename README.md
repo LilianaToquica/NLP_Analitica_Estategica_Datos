@@ -23,3 +23,4 @@ Clase 10 | Octubre 24, 2020 | Modelado de Temas | [Link](http://vivianamarquez.c
 Clase 11 | 🎃 Octubre 31, 2020 | Visualización NLP | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase11/Clase11.html)
 Clase 12 | Noviembre 7, 2020 | Redes Sociales y NLP | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase12/Clase12.html)
 Clase 13 | Noviembre 14, 2020 | Análisis de Sentimiento | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase13/Clase13.html)
+Clase 14 | Noviembre 21, 2020 | Redes Neuronales y NLP | [Link](http://vivianamarquez.com/NLP_Analitica_Estategica_Datos/Clases/Clase14/Clase14.html)
